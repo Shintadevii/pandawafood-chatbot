@@ -1,0 +1,11 @@
+{
+  "name": "pandawafood-wa-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "dotenv": "latest",
+    "qrcode-terminal": "latest",
+    "whatsapp-web.js": "latest"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "pandawafood-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chatbot RAG Pandawafood Official Store (website di Vercel + gateway WhatsApp lokal)",
+  "scripts": {
+    "dev": "node scripts/dev-server.js",
+    "test:rag": "node scripts/test-rag.js"
+  },
+  "dependencies": { "groq-sdk": "latest" },
+  "devDependencies": { "dotenv": "latest" }
+}
